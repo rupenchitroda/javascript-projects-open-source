@@ -1,3 +1,3 @@
 # Animated Background using Javascript
 
-## Constantly changing background color using simple javascript
+#### Constantly changing background color using simple javascript
